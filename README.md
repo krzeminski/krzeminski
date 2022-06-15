@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @krzeminski
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning react and tailwind
-- 🎨 Professionaly I work with Angular and NGRX. Also I wrote tons of tests with jest and cypress.
+👋 Hi, I’m @krzeminski
+👀 I’m interested in web development 
+🌱 I’m currently learning react and tailwind
+🎨 Professionaly I work with Angular and NGRX. Also I wrote tons of tests with jest and cypress.
 
 <!-- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... -->
